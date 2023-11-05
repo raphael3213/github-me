@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Spring Boot and WebFlux**
 
-- 👨‍💻 All of my projects are available at [https://joel-peter-portfolio.vercel.app/](https://joel-peter-portfolio.vercel.app/)
+- 👨‍💻 Check out my portfolio at [https://joel-peter-portfolio.vercel.app/](https://joel-peter-portfolio.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@raphael3213](https://medium.com/@raphael3213)
 
